@@ -4,4 +4,4 @@ Task management Extention.
 
 Just For Fun.
 
-![Todo extention ui](https://prnt.sc/4P11zjwJ02CC)
+![Todo extention ui](download.png)
