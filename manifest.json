@@ -1,0 +1,17 @@
+{
+    "name": "MB To-Do List",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Save and Check  your To-Do List",
+    "permissions": ["storage"],
+    "icons": {
+      "16": "taz.png",
+      "48": "taz.png",
+      "128": "taz.png"
+    },
+    "browser_action": {
+        "default_title": "Moetaz To-Do List",
+        "default_popup": "popup.html"
+    }
+  }
+  
